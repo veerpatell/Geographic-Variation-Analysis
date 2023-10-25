@@ -15,7 +15,7 @@ Welcome to the repository for the Pneumococcal Vaccine Coverage Analysis. This a
 ## Data and Methodology
 
 - **Data Source:** The analysis is based on data obtained from the CDC's vaccine coverage dataset for the year 2020.
-- **Analysis Tools:** We utilized [mention the tools, libraries, or software used] for data processing and analysis.
+- **Analysis Tools:** We utilized [EXCEL, POWERBI] for data processing and analysis.
 - **Analysis Method:** The analysis employed a method to identify "hot spots" and assess disparities in vaccine coverage among racial groups.
 
 ## Recommendations
