@@ -1,0 +1,53 @@
+# Food Insecurity, ER Visits, and Average Risk Scores Analysis (2021) - New England Region
+
+## Introduction
+This repository contains the results of our recent analysis, findings, and recommendations based on the examination of data related to food insecurity, ER visits, and average risk scores across the New England region in 2021.
+
+## Data Sources
+- **Food Insecurity Data:** The food insecurity percentage data was sourced from [https://www.countyhealthrankings.org]. Please refer to the provided dataset for more details on the data's origin and methodology.
+
+## Analysis
+
+### Food Insecurity and ER Visits
+For this analysis, we considered a food insecurity percentage threshold of 10% to distinguish between high and low food insecurity regions. Notable findings include:
+
+- A positive correlation between food insecurity and ER visits (per 1000 beneficiaries), suggesting that as food insecurity increases, so do ER visits.
+- Counties with high ER visits typically have food insecurity percentages exceeding 10%, with exceptions in each state.
+- Windham recorded the highest ER visits, while Bristol had the lowest. The substantial percentage difference between Windham and Bristol indicates significant healthcare utilization variation.
+- State-wise analysis revealed a generally positive correlation, except for Rhode Island.
+- The correlation coefficient of 0.327 and a low p-value of 0.0068 provide evidence of a statistically significant positive correlation between food insecurity and ER visits.
+
+### Food Insecurity and Average Risk Scores
+An analysis of food insecurity and average risk scores revealed a slight positive trend but a lack of a meaningful relationship. Notable observations include:
+
+- Counties above a risk score threshold of 1 tend to have food insecurity percentages exceeding 10%, with exceptions.
+- Some regions with low average risk scores still had high percentages of food insecurity, and vice versa.
+- The correlation coefficient of 0.0790 and a high p-value of 0.5247 indicate a very weak positive correlation, which is not statistically significant.
+
+## Reasons Why ER Visits Increase Due to Food Insecurity
+Several factors contribute to the increase in ER visits in food-insecure regions, including:
+- Unmanaged Chronic Health Conditions
+- Delayed or Avoided Healthcare
+- Mental Health Challenges
+- Limited Healthcare Resources
+- Dehydration and Malnutrition
+
+## Recommendations
+Based on the analysis, we recommend the following strategies:
+
+- **Understanding Unique Regional Factors:** Investigate the specific factors that drive ER visits in food-insecure regions and tailor interventions accordingly.
+
+- **Targeted Interventions for Food Insecurity:** Implement focused efforts to address food insecurity issues and its impact on healthcare utilization.
+
+- **Data-Driven Decision-Making:** Use data insights to inform policies and interventions, ensuring a more efficient allocation of resources.
+
+- **Exploring Outliers:** Examine regions that deviate from the expected trends to identify unique challenges or opportunities for improvement.
+
+- **Community Empowerment:** Engage local communities to raise awareness, provide support, and foster community-based solutions to address food insecurity and its consequences.
+
+## Conclusion
+This analysis provides valuable insights into the relationship between food insecurity, ER visits, and average risk scores in the New England region in 2021. The findings highlight the need for targeted interventions and data-driven decision-making to address the healthcare challenges associated with food insecurity.
+
+For detailed insights and data, please refer to the provided analysis documents. If you have any questions or require further information, please feel free to contact us.
+
+Thank you for your interest in our analysis of food insecurity, ER visits, and average risk scores.
