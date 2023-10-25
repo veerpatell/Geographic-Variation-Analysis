@@ -1,0 +1,59 @@
+# Healthcare Service Utilization and Cost Analysis (2007-2021)
+
+## Introduction
+This repository presents the results of an in-depth analysis of healthcare service utilization and cost changes over the period from 2007 to 2021. The study focuses on various healthcare service categories and offers valuable insights into evolving healthcare trends, utilization patterns, and cost dynamics among people aged 65 and older.
+
+## Data and Service Categories
+- **Data Period:** 2007-2021
+- **Service Types Analyzed:** Hospital Inpatient, Hospital Outpatient, Ambulatory Surgery Center, Evaluation and Management, Procedures, Tests, Imaging.
+
+## Key Observations
+
+### Cost Changes
+The analysis reveals notable fluctuations in the cost changes across different healthcare service types during the study period. Noteworthy findings include:
+
+- Hospital Outpatient and Ambulatory Surgery Center experiencing notable percentage cost increases.
+- Evaluation and Management, Procedures, and Imaging witnessing periods of cost decline.
+- Testing services displaying substantial variability with both increases and decreases. These shifts may be influenced by factors like healthcare policy changes and technological advancements.
+
+### Utilization
+The utilization data for various healthcare service types provides insights into evolving healthcare practices. Key utilization trends include:
+
+- A consistent decrease in hospital inpatient stays per 1000 beneficiaries, possibly due to advancements in medical treatments allowing for shorter hospital stays.
+- Increasing hospital outpatient visits per 1000 beneficiaries, highlighting the growing reliance on outpatient services for cost-effectiveness and convenience.
+- Ambulatory surgery center events showing an overall upward trend, indicating a preference for outpatient surgical procedures.
+- Evaluation and management services experiencing a steady rise, reflecting the demand for patient care and primary care practices.
+- Procedure events exhibiting fluctuations, likely tied to evolving patient needs.
+- Testing events showing mixed changes, influenced by preventive care and diagnostic protocol adjustments.
+- An increase in medical imaging events, indicating a growing need for advanced diagnostic and disease monitoring, in line with advancements in imaging technology.
+
+### Utilization vs. Cost
+The data demonstrates a direct connection between utilization trends and cost changes in healthcare services, reflecting evolving patient preferences and cost-effective care delivery.
+
+### Notable Changes
+One service category with significant utilization decrease is "Tests," with the cost per test rising. This suggests an adoption of more advanced and expensive diagnostic tests or technology over time.
+
+## Percentage Changes (2007-2021)
+- **Hospital Inpatient Cost:** Decreased by approximately 0.42%
+- **Hospital Inpatient Utilization:** Decreased by approximately 36.98%
+- **Hospital Outpatient Cost:** Increased by approximately 149.08%
+- **Hospital Outpatient Utilization:** Increased by approximately 23.43%
+- **Ambulatory Surgery Center Cost:** Increased by approximately 92.42%
+- **Ambulatory Surgery Center Utilization:** Increased by approximately 7.3%
+- **Evaluation and Management Cost:** Increased by approximately 37.69%
+- **Evaluation and Management Utilization:** Increased by approximately 2.42%
+- **Procedures Cost:** Increased by approximately 22.97%
+- **Procedures Utilization:** Increased by approximately 23.85%
+- **Tests Cost:** Increased by approximately 45.9%
+- **Tests Utilization:** Decreased by approximately 10.2%
+- **Imaging Cost:** Decreased by approximately 23.61%
+- **Imaging Utilization:** Decreased by approximately 11.86%
+
+(Note: Percentage changes were calculated by using the Year-over-Year (YoY) percentage change formula.)
+
+## Conclusion
+This analysis offers critical insights into how healthcare service utilization and costs have evolved from 2007 to 2021. The findings shed light on the changing landscape of healthcare services and the influence of factors like advancements in technology and shifts in patient preferences. 
+
+For more detailed insights and information, please refer to the provided data and analysis documents. If you have any questions or require further information, please feel free to contact us.
+
+Thank you for your interest in our healthcare utilization and cost analysis.
