@@ -1,11 +1,28 @@
-# Medicare Geographic Variation Analysis
+# Healthcare Analytics 
 
-Analyze Geographic Variation in Public Use File State County Dataset
+## This repository contains a comprehensive collection of projects completed in the field of healthcare analytics. Each project is meticulously crafted to demonstrate various analytical techniques and insights in healthcare data.
+## Each project focuses on different aspects of healthcare analytics, using a variety of datasets to provide a comprehensive understanding of the field. This detailed approach demonstrates a deep engagement with the subject matter, making this GitHub repository a valuable resource for those interested in healthcare analytics.
 
+##  Analyzing vaccination data and identifying "hot spots"
+Dataset Used: Geographic Variation Public Use File and Chronic Conditions Data.
 
-## Overview
-This repository contains an analysis of geographic variation using the Public Use File State County dataset provided by the Centers for Medicare & Medicaid Services (CMS). We explore various aspects of the dataset, aiming to gain insights into geographic patterns and variations.
+## Chronic Disease Prevalence Analysis
+Dataset Used: Geographic Variation Public Use File and Chronic Conditions Data.
 
+## New England food insecurity and ER utilization analysis
+Dataset Used: Geographic Variation Public Use File and County Health Ranking.
 
-## Data Source
-The dataset used in this analysis is publicly available from [Centers for Medicare & Medicaid Services](https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-geographic-comparisons/medicare-geographic-variation-by-national-state-county).
+## Service Type Trend Analysis
+Dataset Used: Geographic Variation Public Use File.
+
+## Hospital DRG Payment Analysis
+Dataset Used: Medicare Inpatient Hospitals - by Provider and Service (2019 and 2021).
+
+## Healthcare Economics Case Study
+
+## Pediatric Behavioral Health Analysis
+Dataset Used: Mass CBHI behavioral health screening data and NSCH datasets for ADHD, ASD, and bullying.
+
+## Medication Trend and Biosimilar Impact Analysis
+Dataset Used: Medicare Part B Spending by Drug Data and other relevant FDA datasets.
+
