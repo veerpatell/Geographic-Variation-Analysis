@@ -1,7 +1,7 @@
 # Healthcare Analytics 
 
-## This repository contains a comprehensive collection of projects completed in the field of healthcare analytics. Each project is meticulously crafted to demonstrate various analytical techniques and insights in healthcare data.
-## Each project focuses on different aspects of healthcare analytics, using a variety of datasets to provide a comprehensive understanding of the field. This detailed approach demonstrates a deep engagement with the subject matter, making this GitHub repository a valuable resource for those interested in healthcare analytics.
+This repository contains a comprehensive collection of projects completed in the field of healthcare analytics. Each project is meticulously crafted to demonstrate various analytical techniques and insights in healthcare data.
+Each project focuses on different aspects of healthcare analytics, using a variety of datasets to provide a comprehensive understanding of the field. This detailed approach demonstrates a deep engagement with the subject matter, making this GitHub repository a valuable resource for those interested in healthcare analytics.
 
 ##  Analyzing vaccination data and identifying "hot spots"
 Dataset Used: Geographic Variation Public Use File and Chronic Conditions Data.
